@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao meu perfil!
 
-Me chamo Jonas, tenho 25 anos e sou apaixonado por tecnologia! Sou formado em Análise e Desenvolvimento de Sistemas. Tenho conhecimento em HTML, CSS, JavaScript, React.js, TypeScript, Node.js e Python (◕‿◕)
+Me chamo Jonas, tenho 26 anos e sou apaixonado por tecnologia! Sou formado em Análise e Desenvolvimento de Sistemas. Tenho conhecimento e experiência em desenvolver aplicações e automações usando HTML, CSS, JavaScript, React.js, TypeScript, Next.js, Node.js e Python (◕‿◕)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
