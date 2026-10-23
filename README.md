@@ -1,8 +1,6 @@
 ## Bem vindo(a) ao meu perfil!
 
-Me chamo Jonas, tenho 26 anos e sou apaixonado por tecnologia! Sou formado em Análise e Desenvolvimento de Sistemas, e estou focado nos estudos voltados para Ciência de Dados.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+Me chamo Jonas, tenho 26 anos e sou formado em Análise e Desenvolvimento de Sistemas.
 
 ##
 
